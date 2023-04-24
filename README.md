@@ -1,0 +1,2 @@
+# PractixeNextJs
+Practicing Next Js
